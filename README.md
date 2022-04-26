@@ -11,5 +11,6 @@ A classifier and a tool for editing of martial art videos into scenes: combat/no
 
 # Models
 
-https://github.com/open-mmlab/mmhuman3d
+ - https://github.com/open-mmlab/mmhuman3d
+ - https://github.com/open-mmlab/mmaction2
 
