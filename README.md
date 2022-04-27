@@ -1,5 +1,5 @@
 # Martial Arts Video Collection toolkit
-A classifier and a tool for editing of martial art videos into scenes: combat/non combat
+A pretrained video action classifier and a tool for editing of martial art videos into scenes: combat/non combat
 
 
 # Input
