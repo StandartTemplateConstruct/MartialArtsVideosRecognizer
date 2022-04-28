@@ -29,3 +29,5 @@ A labels of 3d body parts of fighters for those scenes
  - https://github.com/open-mmlab/mmhuman3d
  - https://github.com/open-mmlab/mmaction2
 
+
+
